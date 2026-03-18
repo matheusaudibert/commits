@@ -1,12 +1,17 @@
 {
   "repository": "commits",
   "owner": "matheusaudibert",
-  "totalCommits": 1,
+  "totalCommits": 2,
   "history": [
     {
       "sequence": 1,
       "message": "📦 chore: adição do arquivo 'changes.json'",
       "timestamp": "2026-03-18T05:02:13.430Z"
+    },
+    {
+      "sequence": 2,
+      "message": "teste",
+      "timestamp": "2026-03-18T05:03:57.776Z"
     }
   ]
 }
